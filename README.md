@@ -19,7 +19,7 @@ Je to vsechno fiktivni :DDD takze nic tam neni real max tak O mne.
 ![image](https://github.com/nobodysleezy/TYPEKZNICENY/assets/113213768/c2e55fcc-302b-45a1-9bb8-c99d1dfdcc78)
 
 # Co bych chtel zlepsit?
-Dodelat home iconu pres SVG 
+Dodelat home iconu pres SVG,
 Mozna zvetsit text / home fotku sebe jako ten emoji co tam je 
 # Hodnoceni projektu
 Jsem zniceny z toho :D [ne, Jsem spokojeny. Vypada to dobre]
