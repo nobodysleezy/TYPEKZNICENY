@@ -1,6 +1,8 @@
 # odkaz na web - https://typekzniceny.vercel.app
 ----------------------------------------------------------------------
-
+Výhledový web od zničeného týpka. Web byl zprásknutej na horách za necelé 2 hodky. Na webu najdete sekce Domu, O mne, Co pouzivam, Moje projekty a Kontakt. 
+Je to vsechno fiktivni :DDD takze nic tam neni real max tak O mne.
+----------------------------------------------------------------------
 ## HOME PAGE
 ![image](https://github.com/nobodysleezy/TYPEKZNICENY/assets/113213768/4cd8092d-1848-4cc4-a513-3a3fd1ea6380)
 
