@@ -1,4 +1,4 @@
-odkaz na web - https://typekzniceny.vercel.app
+#odkaz na web - https://typekzniceny.vercel.app
 
 ![image](https://github.com/nobodysleezy/TYPEKZNICENY/assets/113213768/4cd8092d-1848-4cc4-a513-3a3fd1ea6380)
 
