@@ -1,1 +1,1 @@
-https://typekzniceny.vercel.app
+odkaz na web - https://typekzniceny.vercel.app
