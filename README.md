@@ -14,3 +14,7 @@
 
 ## Kontakt
 ![image](https://github.com/nobodysleezy/TYPEKZNICENY/assets/113213768/c2e55fcc-302b-45a1-9bb8-c99d1dfdcc78)
+
+# Co bych chtel zlepsit?
+Dodelat home iconu pres SVG 
+Mozna zvetsit text / home fotku sebe 
