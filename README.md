@@ -20,6 +20,6 @@ Je to vsechno fiktivni :DDD takze nic tam neni real max tak O mne.
 
 # Co bych chtel zlepsit?
 Dodelat home iconu pres SVG 
-Mozna zvetsit text / home fotku sebe 
+Mozna zvetsit text / home fotku sebe jako ten emoji co tam je 
 # Hodnoceni projektu
 Jsem zniceny z toho :D [ne, Jsem spokojeny. Vypada to dobre]
