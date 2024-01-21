@@ -1,0 +1,1 @@
+https://typekzniceny.vercel.app
